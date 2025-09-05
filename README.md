@@ -4,6 +4,8 @@ A React Native mobile app that turns shopping into a conversation. Instead of br
 
 Think of it as having a knowledgeable shopping assistant who remembers your preferences and can recommend products based on your specific needs, budget, and style.
 
+<img width="3018" height="2022" alt="shop-ai-sample" src="https://github.com/user-attachments/assets/68f1667c-19a5-415b-9bbf-1130fd4182b6" />
+
 ## Tech Stack
 
 **Frontend**: React Native 0.79.6 with Expo 53.0.22 for cross-platform development  
