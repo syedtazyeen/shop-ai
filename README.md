@@ -1,4 +1,4 @@
-# AI Shopper - Product Suggestion App
+# Shop AI - Ecommerce Product Suggestion App
 
 A React Native mobile app that turns shopping into a conversation. Instead of browsing through endless product lists, users simply chat with an AI advisor about what they need. The AI understands natural language and suggests relevant products from a curated catalog.
 
@@ -77,7 +77,7 @@ src/
 │   └── ui/              # Generic UI components
 │       ├── Button.js       # Custom button component with variants
 │       ├── Typography.js   # Text styling components
-│       ├── badge.js        # Badge component for categories
+│       ├── Badge.js        # Badge component for categories
 │       └── index.js        # UI component exports
 ├── api/                 # External service integrations
 │   ├── suggestion.js    # Gemini AI API calls and content generation
@@ -121,8 +121,8 @@ src/
 
 1. **Clone and install**
    ```bash
-   git clone <repository-url>
-   cd ai-suggestion
+   git clone https://github.com/syedtazyeen/shop-ai
+   cd shop-ai
    npm install
    ```
 
